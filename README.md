@@ -1,5 +1,4 @@
-# URBAN_RURAL_Clustering
-
+# Urban-rural-clustering
 Includes the clustering scripts as well as plotting functionality
 
 This repository was created to include the final codes, which I have written for my dissertation project: "Identifying Cities using clustering". It uses a range of landscape and socio-economic data, to cluster geographical regions based on their similarities. The data used is included as a csv file.
